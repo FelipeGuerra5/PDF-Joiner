@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 from pdfrw import PdfReader, PdfWriter
 import glob
 
