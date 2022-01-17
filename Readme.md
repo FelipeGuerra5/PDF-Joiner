@@ -29,11 +29,11 @@
 ```
 
 - Three folders are going be created in your folder
-  - _pycache_
+  - pycache
   - dist
   - build
-- On dist folder you have your the executable and all that it needs to run.
-- For convenience I hid all but the .exe file. 
+- On dist folder you have the executable and all that it needs to run.
+- For convenience, I hid all but the .exe file. 
 
 # Motivation
 - This project was made to help me in my previous job were hundreds of pdf extension file needed to be joined together.
