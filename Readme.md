@@ -10,7 +10,7 @@
 - After extraction insert your .pdf files in the folder and execute the .exe file.
 
 # Do it yourself
-- Copy the py code and save it. <a id="raw-url" href="https://github.com/FelipeGuerra5/PDF-Joiner/blob/main/PDF%20joiner%202.0.py">Download .py FILE</a>
+- Copy the py code and save it. <a id="raw-url" href="https://github.com/FelipeGuerra5/PDF-Joiner/blob/main/PDF%20joiner%202.0.py">See code</a>
 - Create a virtual ambient in the folder the file on.
 - On Anaconda prompt:
 
