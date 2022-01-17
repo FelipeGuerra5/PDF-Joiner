@@ -2,7 +2,7 @@
 - When executed it joins all ".pdf" extension files in the folder in one single file.
 - They are order by ASCII Value of Character.
 - The name of the new file is "PDF Join by Guerra"
-- <a id="raw-url" href="https://github.com/FelipeGuerra5/PDF-Joiner/raw/main/PDF%20joiner%202.0.zip">Download FILE</a>
+- <a id="raw-url" href="https://github.com/FelipeGuerra5/PDF-Joiner/raw/main/PDF%20joiner%202.0.zip">Download .zip FILE</a>
 - P.S. for convenience I hid all file, except the .exe file.
 
 # Run it
@@ -10,6 +10,28 @@
 - After extraction insert your .pdf files in the folder and execute the .exe file.
 
 # Do it yourself
+- Download the py file to a folder. <a id="raw-url" href="">Download .py FILE</a>
+- Create a virtual ambient (may use anaconda prompt for that)
+```commandline
+    conda create -n [name of venv] python=[version]
+    conda activate [name of venv] 
+``` 
+      
+- With venv activated:
+
+```commandline
+    pip install pdfrw
+    pip install glob
+    pip install pyinstaller 
+    pyinstaller -w "PDF joiner 2.0.py"
+```
+
+- Three folders are going be created in your folder
+  - _pycache_
+  - dist
+  - build
+- On dist folder you have your the executable and all that it needs to run.
+- For convenience I hid all but the .exe file. 
 
 # Motivation
 - This project was made to help me in my previous job were hundreds of pdf extension file needed to be joined together.
