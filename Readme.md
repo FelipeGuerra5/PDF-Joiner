@@ -5,9 +5,9 @@
 - <a id="raw-url" href="https://github.com/FelipeGuerra5/PDF-Joiner/raw/main/PDF%20joiner%202.0.zip">Download .zip FILE</a>
 - P.S. for convenience I hid all file, except the .exe file.
 
-# Run it
+# Use it
 - Download the ".zip" file
-- After extraction insert your .pdf files in the folder and execute the .exe file.
+- After extraction insert your .pdf files in the "PDF joiner 2.0" folder and execute the .exe file.
 
 # Do it yourself
 - Copy the py code and save it. <a id="raw-url" href="https://github.com/FelipeGuerra5/PDF-Joiner/blob/main/PDF%20joiner%202.0.py">See code</a>
