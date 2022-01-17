@@ -10,8 +10,10 @@
 - After extraction insert your .pdf files in the folder and execute the .exe file.
 
 # Do it yourself
-- Download the py file to a folder. <a id="raw-url" href="">Download .py FILE</a>
-- Create a virtual ambient (may use anaconda prompt for that)
+- Copy the py code and save it. <a id="raw-url" href="https://github.com/FelipeGuerra5/PDF-Joiner/blob/main/PDF%20joiner%202.0.py">Download .py FILE</a>
+- Create a virtual ambient in the folder the file on.
+- On Anaconda prompt:
+
 ```commandline
     conda create -n [name of venv] python=[version]
     conda activate [name of venv] 
@@ -23,7 +25,7 @@
     pip install pdfrw
     pip install glob
     pip install pyinstaller 
-    pyinstaller -w "PDF joiner 2.0.py"
+    pyinstaller -w "Name of the file.py"
 ```
 
 - Three folders are going be created in your folder
